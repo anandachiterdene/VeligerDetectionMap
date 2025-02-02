@@ -1,11 +1,13 @@
 # VeligerDetectionMap
-Interactive Map of Dressenid Mussels found in the Eastern United States
+![Build and Deployment]
+Interactive Map of Dressenid Mussels found in waterbodies across the Eastern United States. Made using R. 
 
+## Authors: 
+-Jonathan Wagner
+-Anand Achit-Erdene
 
-Authors: 
-Jonathan Wagner
-Anand Achit-Erdene
-
-Contributors:
-Meaghan Windor
-Alex Lyford
+## Technologies used:
+-R
+-ShinyApp
+-Python
+-JS
