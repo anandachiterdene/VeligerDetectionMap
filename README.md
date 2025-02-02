@@ -2,11 +2,11 @@
 Interactive Map of Dressenid Mussels found in waterbodies across the Eastern United States. Made using R. 
 
 ## Authors: 
--Jonathan Wagner
--Anand Achit-Erdene
+- Anand Achit-Erdene <br />
+- Jonathan Wagner <br />
 
 ## Technologies used:
--R
--ShinyApp
--Python
--JS
+- R <br />
+- ShinyApp <br />
+- Python <br />
+- JS
