@@ -8,5 +8,4 @@ Interactive Map of Dressenid Mussels found in waterbodies across the Eastern Uni
 ## Technologies used:
 - R <br />
 - ShinyApp <br />
-- Python <br />
-- JS
+
